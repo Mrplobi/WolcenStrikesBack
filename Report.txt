@@ -1,0 +1,13 @@
+Ligue bois 2:
+
+Access to distance and angle to next Checkpoint.
+The aim here is to prevent overshooting the checkpoints and to correct trajectory quickly.
+The pod accelerates less when it is inside a checkpoint (making it go lose speed faster if it had some) to reduce overshoot. 
+Moreover, the thrust is greatly reduced when not facing towards the next checkpoint to facilitate quick turns.
+
+The values were found throught trial and error.
+
+Time taken : about 30 min 
+
+Note : Tried to beat everyone but one guy just wouldn't let me win...
+
