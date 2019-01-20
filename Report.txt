@@ -11,3 +11,14 @@ Time taken : about 30 min
 
 Note : Tried to beat everyone but one guy just wouldn't let me win...
 
+
+Ligue bois 3:
+
+Took some time to realise that the exemple code (with the 90 degree check for the turn) was better than what i had...
+So I used it and won... Wouhou....
+
+Anyways, I also implemented a class to stock info on checkpoints, don't know what to do with it yet but I feel it might be usefull.
+
+Time taken : 30 min
+
+Ligue bronze 1 :
