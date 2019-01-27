@@ -21,4 +21,19 @@ Anyways, I also implemented a class to stock info on checkpoints, don't know wha
 
 Time taken : 30 min
 
-Ligue bronze 1 :
+Ligue bronze 1  (6h)
+
+Je n'ai pas passé cette ligue, à mon plus grand déséspoir.
+
+J'ai procédé à une large refonte de mon code en ajoutant les classes Pod (qui me donne les infos de mon pod) et Point (qui représente une point)
+
+J'ai d'abord du faire face à un problème de "mise en orbite" de mon pod. Celui ci tournais betement autour du point. Pour régler ça j'ai mi en place un petit algo diminuant la vitesse en fonction de l'angle avec le point lorsque l'on est pret de celui-ci. J'ai également fait en sorte que mon vaisseau ralentisse en approchant du point.
+
+Ces modifications m'ont permi d'atteindre les 4000 mais pas à passer à la ligue d'au dessus.
+
+La dernière idée que j'ai eu est d'améliorer ma trajectoire en ne visant plus le centre du point mais en visant la corde (avec de la trigo).
+Cela à fonctionner mais je l'ai implémenté trop tard et n'ai donc pas eu le temps de le faire fonctionner proprement avec le reste de mon algorithme. Cela mène donc à des résultats bien moins bon. Mais je reste persuadé que tenter de couper ainsi les virages est une bonne méthode.
+
+La version du programme que vous trouverez est celle qui se classe bien mais avec le code complet de la version avec coupage de virage. La ligne 351 étant celle qui décide l'algo utilisé.
+
+Merci beaucoup :)
