@@ -1,3 +1,5 @@
+Classement final : ligue bronze 417eme. (voir message tout en bas)
+
 Ligue bois 2:
 
 Access to distance and angle to next Checkpoint.
@@ -37,3 +39,6 @@ Cela à fonctionner mais je l'ai implémenté trop tard et n'ai donc pas eu le temp
 La version du programme que vous trouverez est celle qui se classe bien mais avec le code complet de la version avec coupage de virage. La ligne 351 étant celle qui décide l'algo utilisé.
 
 Merci beaucoup :)
+
+
+P.S : Juste après le dernier commit et le mail que je vous ai envoyé j'ai relancé l'algorithme sur codingame (l'alogo rithme qui me faisait arriver 5000eme ce matin) et je suis arrivé 400eme. il s'agit de l'algo avec la ligne commenté. Je ne comprend pas très bien comment ni pourquoi...
